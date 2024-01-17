@@ -1,0 +1,8 @@
+sample_data
+Date,Product,QuantitySold,Revenue,QuantityInStock,CostPrice
+01-01-2022,Product_A,10,150,100,10
+02-01-2022,Product_B,5,75,50,8
+03-01-2022,Product_A,8,120,92,10
+04-01-2022,Product_C,12,180,75,12
+05-01-2022,Product_B,6,90,44,8
+12-11-2023,Product_T,10,200,12,13
