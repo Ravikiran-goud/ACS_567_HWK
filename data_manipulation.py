@@ -137,7 +137,7 @@ class ApplicationDriver:
 
 
 if __name__ == "__main__":
-    file_path = 'data_input.csv'  # Replace with the actual file path
+    file_path = 'data_input.csv'  
     data_processor = DataProcessor(file_path)
     data_manager = DataManager()
     app_driver = ApplicationDriver(data_processor)
